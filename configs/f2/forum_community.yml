@@ -1,0 +1,542 @@
+entries:
+- pattern: reddit.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: old.reddit.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: quora.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: stackexchange.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: stackoverflow.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: superuser.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: serverfault.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: askubuntu.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: math.stackexchange.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: stats.stackexchange.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: crossvalidated.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: answers.microsoft.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: support.google.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: support.apple.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: forums.appleinsider.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.adobe.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.openai.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.cloudflare.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.shopify.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.spotify.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.atlassian.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.intel.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.amd.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.nvidia.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.oracle.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.sap.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.ibm.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: forums.tomshardware.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: tomshardware.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: xda-developers.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: forum.xda-developers.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: hackernews.ycombinator.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: news.ycombinator.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: slashdot.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: metafilter.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: 4chan.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: 8kun.top
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: kiwifarms.st
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: resetera.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: neogaf.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: avforums.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: mumsnet.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: netmums.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: studentroom.co.uk
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: tripadvisor.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: community.tripadvisor.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: lonelyplanet.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: forums.digitalspy.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: digitalspy.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: city-data.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: gardenweb.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: houzz.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: patient.info
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: patientslikeme.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: healthboards.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: medhelp.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: dpreview.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: forums.macrumors.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: macrumors.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: steamcommunity.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: gamefaqs.gamespot.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: rpg.net
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: boards.4channel.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: discourse.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: proboards.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: phpbb.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: invisioncommunity.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: manual_seed
+  notes: User-generated forum, Q&A, support community, or discussion board.
+- pattern: nairaland.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 36
+  example_claim_id: '72'
+  example_url: https://www.nairaland.com/5679927/anger-buharis-daughter-made-manager
+  deep_bucket_candidate: forum_community
+  notes: Large Nigerian forum/community site. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: fandom.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '193'
+  example_url: https://military-history.fandom.com/wiki/Boeing_E-6_Mercury
+  deep_bucket_candidate: wiki_community
+  notes: Community wiki/reference platform. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: indiaforums.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '266'
+  example_url: https://www.indiaforums.com/article/ranveer-singh-requests-ncb-to-join-deepika-padukone-during-questioning-cites-her-anxiety-reports_169439
+  deep_bucket_candidate: forum_community
+  notes: Entertainment/community forum. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: inforum.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: low
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '329'
+  example_url: https://www.inforum.com/news/veto-proof-majority-of-minneapolis-city-council-members-back-dismantling-police-department
+  deep_bucket_candidate: probable_forum_review
+  notes: Heuristic community/forum-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: rogers.com
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: medium
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '455'
+  example_url: https://communityforums.rogers.com/t5/Community-Lounge/Fox-News-why-not-full-HD/td-p/415811/page/3
+  deep_bucket_candidate: community_forum_path
+  notes: Community forum URL under corporate domain; path-specific rule recommended.
+    Candidate from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: americanactionforum.org
+  match_type: registered_domain
+  bucket: forum_community
+  confidence: low
+  trust_prior: 0.3
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '379'
+  example_url: https://www.americanactionforum.org/insight/does-content-moderation-need-changes-to-section-230/
+  deep_bucket_candidate: probable_forum_review
+  notes: Heuristic community/forum-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.

@@ -1,0 +1,1716 @@
+entries:
+- pattern: .edu
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.uk
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.au
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.cn
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.cn
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.sg
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.hk
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.tw
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.jp
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.kr
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.kr
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.in
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.in
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .res.in
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.pk
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.bd
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.nz
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.ng
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .ac.za
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.sa
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.my
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.ph
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.tr
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.mx
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.br
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.ar
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.co
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.pe
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.ec
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.uy
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: .edu.cl
+  match_type: suffix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: doi.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: dx.doi.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: crossref.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: datacite.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: orcid.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ror.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: openalex.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: pubmed.ncbi.nlm.nih.gov
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: pmc.ncbi.nlm.nih.gov
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ncbi.nlm.nih.gov
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: clinicaltrials.gov
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: europepmc.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: arxiv.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: biorxiv.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: medrxiv.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: chemrxiv.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ssrn.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: papers.ssrn.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: osf.io
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: zenodo.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: figshare.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: dataverse.harvard.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: dryad.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: researchsquare.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: hal.science
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: openreview.net
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: aclanthology.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: dblp.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: semanticscholar.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: jmlr.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: proceedings.mlr.press
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: neurips.cc
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: icml.cc
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: openaccess.thecvf.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: aaai.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: nature.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: science.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cell.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: thelancet.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: nejm.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: bmj.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: jamanetwork.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: pnas.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: plos.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: journals.plos.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: elifesciences.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: frontiersin.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: mdpi.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: springer.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: link.springer.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: sciencedirect.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: elsevier.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: wiley.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: onlinelibrary.wiley.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: academic.oup.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: oxfordacademic.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cambridge.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cambridge.org/core
+  match_type: path_prefix
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: tandfonline.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: taylorfrancis.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: sagepub.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: journals.sagepub.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: degruyter.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: emerald.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: royalsocietypublishing.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: acm.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: dl.acm.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ieee.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ieeexplore.ieee.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: aps.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: journals.aps.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: scitation.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: aip.scitation.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: iopscience.iop.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: spiedigitallibrary.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: annualreviews.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cochranelibrary.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cochrane.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: mit.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: harvard.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: stanford.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: berkeley.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cmu.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: princeton.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: yale.edu
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ox.ac.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cam.ac.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: imperial.ac.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ucl.ac.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ethz.ch
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: epfl.ch
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: mpg.de
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cnrs.fr
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: inria.fr
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: csic.es
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cern.ch
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: ebi.ac.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: high
+  trust_prior: 0.9
+  source_basis: manual_seed
+  notes: Academic, scholarly, scientific, DOI, repository, publisher, or research-institution
+    source.
+- pattern: cfr.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 56
+  example_claim_id: '195'
+  example_url: https://www.cfr.org/blog/nigeria-faces-crippling-population-boom
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Council on Foreign Relations policy/research source. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: worldpopulationreview.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 50
+  example_claim_id: '194'
+  example_url: https://worldpopulationreview.com/countries/nigeria-population
+  deep_bucket_candidate: statistical_reference
+  notes: Demographic/statistical reference aggregator. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: macrotrends.net
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 40
+  example_claim_id: '71'
+  example_url: https://www.macrotrends.net/countries/IND/india/imports
+  deep_bucket_candidate: statistical_reference
+  notes: Macroeconomic/statistical data reference. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: ballotpedia.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 36
+  example_claim_id: '17'
+  example_url: https://ballotpedia.org/Do_absentee/mail-in_ballots_take_longer_to_count_than_in-person_ballots%3F_(2020)
+  deep_bucket_candidate: legal_civic_reference
+  notes: Election/civic reference database. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: prb.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 34
+  example_claim_id: '194'
+  example_url: https://www.prb.org/resources/in-the-news-results-trickle-out-from-the-nigerian-census/
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Population Reference Bureau research/data source. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: worldometers.info
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 34
+  example_claim_id: '194'
+  example_url: https://www.worldometers.info/world-population/nigeria-population/
+  deep_bucket_candidate: statistical_reference
+  notes: Statistical/reference site. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: pewresearch.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 26
+  example_claim_id: '103'
+  example_url: https://www.pewresearch.org/short-reads/2018/07/16/with-another-supreme-court-pick-trump-is-leaving-his-mark-on-higher-federal-courts/
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Research center with survey/data reports. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: healthline.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 22
+  example_claim_id: '13'
+  example_url: https://www.healthline.com/health/cold-flu/mask
+  deep_bucket_candidate: medical_health_reference
+  notes: Health information/reference publisher; not primary clinical evidence. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: medicalnewstoday.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '13'
+  example_url: https://www.medicalnewstoday.com/articles/widespread-face-mask-use-can-control-covid-19-outbreak-study-suggests
+  deep_bucket_candidate: medical_health_reference
+  notes: Health information/reference publisher. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: byjus.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '365'
+  example_url: https://byjus.com/free-ias-prep/right-to-freedom-of-religion-articles-25-28/
+  deep_bucket_candidate: education_reference
+  notes: Educational reference source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: investopedia.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '9'
+  example_url: https://www.investopedia.com/terms/g/gdp.asp
+  deep_bucket_candidate: financial_reference
+  notes: Finance reference/education source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: lung.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '13'
+  example_url: https://www.lung.org/blog/covid-masks
+  deep_bucket_candidate: medical_health_organization
+  notes: American Lung Association health organization. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: statista.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '33'
+  example_url: https://www.statista.com/chart/23129/estimated-number-of-deaths-due-to-influenza-in-the-us/
+  deep_bucket_candidate: statistical_reference
+  notes: Statistical/data portal. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: globalcitizen.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '35'
+  example_url: https://www.globalcitizen.org/en/content/bill-gates-coronavirus-reddit-AMA-testing/
+  deep_bucket_candidate: ngo_advocacy
+  notes: NGO/advocacy organization; not ordinary news. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: kff.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '65'
+  example_url: https://www.kff.org/health-reform/issue-brief/the-cost-of-the-individual-mandate-penalty-for-the-remaining-uninsured/
+  deep_bucket_candidate: health_policy_research
+  notes: KFF health policy research source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: refworld.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '183'
+  example_url: https://www.refworld.org/docid/4a4214a32d.html
+  deep_bucket_candidate: legal_human_rights_reference
+  notes: UNHCR-backed legal/reference database. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: fas.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '15'
+  example_url: https://sgp.fas.org/crs/homesec/R46218.pdf
+  deep_bucket_candidate: policy_research_archive
+  notes: Federation of American Scientists/government-document research. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: sciencedaily.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '27'
+  example_url: https://www.sciencedaily.com/releases/2013/03/130307161631.htm
+  deep_bucket_candidate: science_news_reference
+  notes: Science news/reference aggregator. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: justia.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '31'
+  example_url: https://supreme.justia.com/justices/amy-coney-barrett/
+  deep_bucket_candidate: legal_civic_reference
+  notes: Legal information/case reference. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: intermountainhealthcare.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '115'
+  example_url: https://intermountainhealthcare.org/blogs/debunking-common-face-mask-misconceptions/
+  deep_bucket_candidate: medical_health_organization
+  notes: Healthcare organization source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: worlddata.info
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '198'
+  example_url: https://www.worlddata.info/africa/nigeria/populationgrowth.php
+  deep_bucket_candidate: statistical_reference
+  notes: Statistical/reference site. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: usafacts.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '9'
+  example_url: https://usafacts.org/data/topics/economy/economic-indicators/gdp/gross-domestic-product/
+  deep_bucket_candidate: statistical_reference
+  notes: Civic/statistical data source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: scotusblog.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '31'
+  example_url: https://www.scotusblog.com/category/special-features/nomination-of-amy-coney-barrett-to-the-supreme-court/
+  deep_bucket_candidate: legal_civic_reference
+  notes: Supreme Court analysis/reference blog; legal reference. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: aei.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '49'
+  example_url: https://www.aei.org/op-eds/us-emissions-are-falling-under-trump-thanks-to-frackings-war-on-coal/
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Think tank/policy source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: taxpolicycenter.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '128'
+  example_url: https://www.taxpolicycenter.org/taxvox/biden-would-raise-taxes-4-trillion-over-10-years-mostly-highest-income-households
+  deep_bucket_candidate: policy_research
+  notes: Tax policy research center. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: everycrsreport.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '146'
+  example_url: https://www.everycrsreport.com/reports/R46554.html
+  deep_bucket_candidate: government_document_archive
+  notes: CRS report archive; secondary archive of government reports. Candidate from
+    retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: acslaw.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '156'
+  example_url: https://www.acslaw.org/projects/the-presidential-investigation-education-project/dojs-inspector-general-report-myths-and-facts-on-russia-inquiry-origins/
+  deep_bucket_candidate: legal_policy_organization
+  notes: Legal policy organization. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: thestatesman.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '181'
+  example_url: https://www.thestatesman.com/india/when-lal-bahadur-shastri-took-a-loan-from-pnb-1502589821.html
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: issafrica.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '403'
+  example_url: https://issafrica.org/iss-today/the-perplexities-of-human-trafficking-in-south-africa
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Institute for Security Studies Africa research source. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: csis.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '5'
+  example_url: https://www.csis.org/analysis/unpacking-syrias-chemical-weapons-problem
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Think tank/policy source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: armscontrol.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '5'
+  example_url: https://www.armscontrol.org/factsheets/cwcglance
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Policy/research organization source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: heritage.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '8'
+  example_url: https://www.heritage.org/election-integrity/heritage-explains/voter-fraud
+  deep_bucket_candidate: ngo_thinktank_policy
+  notes: Think tank/policy source; ideology noted in provenance, not F2 truth label.
+    Candidate from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dataphyte.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '166'
+  example_url: https://www.dataphyte.com/latest-reports/development/its-official-more-than-80-million-nigerians-are-extremely-poor-living-on-less-than-n400-per-day/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: taxresearch.org.uk
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '176'
+  example_url: https://www.taxresearch.org.uk/Blog/2012/10/18/why-hmrcs-tax-gap-still-makes-no-sense/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: bipartisanpolicy.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '8'
+  example_url: https://bipartisanpolicy.org/report/counting-the-vote-during-the-2020-election/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: healthinsurance.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '65'
+  example_url: https://www.healthinsurance.org/obamacare/obamacare-penalty-calculator/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dataforprogress.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '100'
+  example_url: https://www.dataforprogress.org/memos/biden-climate-agenda-has-markings-of-gnd
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: census2011.co.in
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '227'
+  example_url: https://www.census2011.co.in/data/religion/state/32-kerala.html#:~:text=Kerala%20Religion%20Census%202011,-As%20per%20census&text=The%20data%20for%202021%20%26%202022,percent)%20of%20total%203.34%20Crore.
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: reidhealth.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '236'
+  example_url: https://www.reidhealth.org/safe
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: thehealthsite.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '243'
+  example_url: https://www.thehealthsite.com/fitness/diet/incredible-health-benefits-of-eating-millets-644615/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: ourworldindata.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '346'
+  example_url: https://ourworldindata.org/coronavirus/country/georgia
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: prisonpolicy.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: low
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '458'
+  example_url: https://www.prisonpolicy.org/blog/2020/06/05/policekillings/
+  deep_bucket_candidate: probable_reference_research_review
+  notes: Heuristic reference/research-like domain; manual review required. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: tradingeconomics.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 24
+  example_claim_id: '203'
+  example_url: https://tradingeconomics.com/nigeria/urban-population-percent-of-total-wb-data.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: brennancenter.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 18
+  example_claim_id: '8'
+  example_url: https://www.brennancenter.org/our-work/research-reports/how-election-night-2020-will-be-different
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: drishtiias.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 16
+  example_claim_id: '71'
+  example_url: https://www.drishtiias.com/daily-news-analysis/china-india-s-top-trading-partner-in-2020/print_manually
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: history.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 16
+  example_claim_id: '121'
+  example_url: https://www.history.com/topics/american-civil-war/robert-e-lee
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: aarp.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 12
+  example_claim_id: '334'
+  example_url: https://www.aarp.org/politics-society/government-elections/info-2020/coronavirus-state-restrictions.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: iowafarmbureau.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 10
+  example_claim_id: '74'
+  example_url: https://www.iowafarmbureau.com/Article/Statement-by-Iowa-Farm-Bureau-Federation
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: jagranjosh.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '54'
+  example_url: https://www.jagranjosh.com/general-knowledge/list-of-products-india-imports-from-china-1593509838-1
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: afreximbank.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '150'
+  example_url: https://www.afreximbank.com/afreximbank-agrees-600-million-line-of-credit-to-zimbabwes-reserve-bank/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: britannica.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 18
+  example_claim_id: '52'
+  example_url: https://kids.britannica.com/students/article/Ferdinand-E-Marcos/275688
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: biography.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 18
+  example_claim_id: '52'
+  example_url: https://www.biography.com/political-figures/ferdinand-marcos
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: vote411.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 10
+  example_claim_id: '18'
+  example_url: http://www.vote411.org/california
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: vote.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '17'
+  example_url: https://www.vote.org/absentee-ballot-deadlines/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: foreignaffairs.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 10
+  example_claim_id: '199'
+  example_url: https://www.foreignaffairs.com/reviews/capsule-review/1980-06-01/nigerian-government-and-politics-under-military-rule-1966-1979
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: worldatlas.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 10
+  example_claim_id: '195'
+  example_url: https://www.worldatlas.com/articles/countries-with-a-population-over-200-million.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: medicalxpress.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '41'
+  example_url: https://medicalxpress.com/news/2018-12-masks-hog-farm-workers-household.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: nationalgeographic.com
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '44'
+  example_url: https://www.nationalgeographic.com/science/article/uk-backed-off-on-herd-immunity-to-beat-coronavirus-we-need-it
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: paho.org
+  match_type: registered_domain
+  bucket: academic_scientific
+  confidence: medium
+  trust_prior: 0.7
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '13'
+  example_url: https://www.paho.org/en/news/28-2-2020-face-masks-during-outbreaks-who-when-where-and-how-use-them
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.

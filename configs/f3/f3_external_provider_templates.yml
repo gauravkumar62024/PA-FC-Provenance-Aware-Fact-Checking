@@ -1,0 +1,45 @@
+schema_version: '1.0'
+feature: F3_external_provider_templates
+description: Templates for optional external domain-credibility providers. These require
+  separately obtained data and should be versioned.
+providers:
+- name: NELA-GT_source_labels
+  type: academic_dataset
+  expected_fields:
+  - registered_domain
+  - reliability_label
+  - bias_label
+  - transparency_label
+  - assessment_source
+  normalization: Map available source-level labels to [0,1] and keep original labels
+    for audit.
+  paper_use: Good for experimental calibration and ablation, not complete global coverage.
+- name: MBFC_style_factually_reporting_rating
+  type: external_rating_site
+  expected_fields:
+  - registered_domain
+  - factual_reporting
+  - bias
+  - credibility_notes
+  normalization: Very High=0.90, High=0.80, Mostly Factual=0.70, Mixed=0.45, Low=0.20,
+    Very Low=0.10; report as contested/coarse.
+  paper_use: Use only as an optional source-level prior with sensitivity analysis.
+- name: IFCN_or_Duke_factchecker_registry
+  type: fact_checker_registry
+  expected_fields:
+  - registered_domain
+  - organization
+  - country
+  - status
+  normalization: Fact-checker trust prior around 0.80; leakage sensitivity remains
+    true.
+  paper_use: Useful for F2 fact_checker and F3 trust prior; always run F11 leakage.
+- name: Google_Safe_Browsing_or_URLhaus
+  type: cyber_abuse_provider
+  expected_fields:
+  - url_or_domain
+  - threat_type
+  - last_seen
+  - confidence
+  normalization: If active phishing/malware/spam signal is present, cap T_i at 0.05.
+  paper_use: Safety/admissibility signal, not misinformation label.

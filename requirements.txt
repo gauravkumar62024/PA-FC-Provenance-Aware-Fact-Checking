@@ -1,0 +1,36 @@
+# PA-FC minimal runtime requirements.
+# Pinned from the actual working servers (see docs/REPRODUCIBILITY.md).
+#
+# NOTE: two stacks are used and they are NOT interchangeable:
+#   - feature generation (F1-F4)  -> tldextract 5.3.1  (Jupiter / hero2_venv)
+#   - QLoRA training + inference  -> torch 2.12 stack   (ISL / A100)
+# tldextract performs registered-domain extraction, which F2 depends on, so its
+# version is pinned deliberately rather than left floating.
+
+# --- core ---
+torch==2.12.0
+transformers==5.6.0
+peft==0.18.1
+bitsandbytes==0.49.2
+accelerate==1.11.0
+datasets==4.0.0
+trl==0.24.0
+
+# --- feature pipeline ---
+# sentence-transformers drives the F1 NLI cross-encoder (stage 1); without it
+# scripts/01_generate_f1.py cannot run. pandas and tqdm are used from stage 2
+# onwards; requests is used by the F3 trust-provider lookup.
+sentence-transformers==3.0.1
+tldextract==5.3.1
+PyYAML==6.0
+pandas==2.0.3
+tqdm==4.66.1
+requests==2.31.0
+
+# --- evaluation / statistics ---
+scikit-learn==1.3.0
+numpy==1.24.3
+scipy==1.10.1
+
+# --- training driver ---
+# LLaMA-Factory 0.9.6.dev0 (install from source; see docs/REPRODUCIBILITY.md)

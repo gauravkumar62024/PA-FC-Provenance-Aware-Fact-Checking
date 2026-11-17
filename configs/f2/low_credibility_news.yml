@@ -1,0 +1,799 @@
+entries:
+- pattern: infowars.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: banned.video
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: naturalnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: hoggwatch.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thegatewaypundit.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: wnd.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: worldnetdaily.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: newspunch.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: yournewswire.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thepeoplesvoice.tv
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: nationalreport.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: beforeitsnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: zerohedge.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: veteranstoday.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: globalresearch.ca
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: activistpost.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: collective-evolution.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: worldtruth.tv
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: rumormillnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: dcclothesline.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: neonnettle.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: davidicke.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: prisonplanet.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: trunews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: eutimes.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: americanfreepress.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: barenakedislam.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: gellerreport.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: daily-stormer.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: dailystormer.su
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: nationalfile.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: redice.tv
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: returnofkings.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: conservapedia.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thefreethoughtproject.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: healthimpactnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: greenmedinfo.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: mercola.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thetruthaboutcancer.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thefederalistpapers.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: conservativetribune.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: westernjournal.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: 100percentfedup.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: patriotnewsdaily.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: ilovemyfreedom.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: en-volve.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: conservativebrief.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: trendingpoliticsnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: anonhq.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: southfront.press
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: rt.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: sputnikglobe.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: presstv.ir
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: globaltimes.cn
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: chinadaily.com.cn
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: theepochtimes.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: ntd.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: dailykos.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: palmerreport.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: bipartisanreport.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: occupydemocrats.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: addictinginfo.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: crooksandliars.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: rawstory.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: truthout.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: commondreams.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: 12minutos.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: 24aktuelles.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: 24hnoticias.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: actualite.co
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: actualites.co
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: actualitesdujour.fr
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: theasociatedpress.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: thebreakingnews.co
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: breakingnews247.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: breakingnews365.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: cbs-news.us
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: cbsnews.us
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel22news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel23news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel24news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel28news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel33news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel34news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: channel40news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: worldnewsdailyreport.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: empirenews.net
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: huzlers.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: react365.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: abcnews.com.co
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: now8news.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: dailybuzzlive.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: newsbuzzdaily.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: stuppid.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: fakeawish.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: prank.link
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: manual_seed
+  notes: Misinformation/hoax/low-factuality or fake-news-generator watchlist seed.
+    Use only as provenance prior, not as proof of falsehood.
+- pattern: realrawnews.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: dataset_audit
+  trust_prior: 0.15
+  source_basis: averitec_dataset_audit
+- pattern: childrenshealthdefense.org
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: dataset_audit
+  trust_prior: 0.15
+  source_basis: averitec_dataset_audit
+- pattern: thefederalist.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: dataset_audit
+  trust_prior: 0.2
+  source_basis: averitec_dataset_audit
+- pattern: opindia.com
+  match_type: registered_domain
+  bucket: low_credibility_news
+  confidence: medium
+  trust_prior: 0.15
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '85'
+  example_url: https://www.opindia.com/2018/05/jinnahs-portrait-in-aligarh-muslim-university-sparks-row-bjp-mp-demands-clarification-from-vc/
+  deep_bucket_candidate: low_credibility_or_partisan
+  notes: High-caution partisan/misinformation-prone source. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.

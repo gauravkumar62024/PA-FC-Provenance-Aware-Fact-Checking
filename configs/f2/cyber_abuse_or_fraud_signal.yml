@@ -1,0 +1,65 @@
+entries:
+- pattern: google_safe_browsing
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: raise_risk_or_exclude
+  notes: Dynamic phishing/malware API signal; do not store as permanent truth label.
+- pattern: spamhaus_dbl
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: raise_risk_or_exclude
+  notes: Spam/phishing/malware domain blocklist signal.
+- pattern: surbl
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: raise_risk_or_exclude
+  notes: URI/domain abuse blocklist signal.
+- pattern: phishtank
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: exclude_when_verified_phish
+  notes: Verified phishing URL feed/API signal.
+- pattern: openphish
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: exclude_when_verified_phish
+  notes: Phishing intelligence feed/API signal.
+- pattern: urlhaus_abuse_ch
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: exclude_when_malware_url
+  notes: Malware URL/feed signal; separate from misinformation source type.
+- pattern: urlscan_io
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: raise_risk_or_exclude
+  notes: Domain/URL reputation and scan verdict signal.
+- pattern: virustotal
+  match_type: provider_lookup
+  bucket: cyber_abuse_or_fraud_signal
+  confidence: provider_dependent
+  trust_prior: 0.05
+  source_basis: dynamic_provider
+  action: raise_risk_or_exclude
+  notes: Multi-engine domain/URL reputation signal.

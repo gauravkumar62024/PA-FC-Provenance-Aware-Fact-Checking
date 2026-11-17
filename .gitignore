@@ -1,0 +1,42 @@
+# Local artifacts, never pushed
+# data/ IS tracked: it holds the released feature-added datasets (.json.gz).
+# Only uncompressed working copies are ignored.
+data/**/*.json
+data/**/*.jsonl
+work/
+models/
+predictions/
+results/*
+!results/.gitkeep
+!results/table5_recomputed.csv
+checkpoints/
+saves/
+outputs/
+logs/
+wandb/
+cache/
+.cache/
+huggingface/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Local run configuration (contains machine-specific paths)
+configs/table5_runs.json
+configs/paths.local.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments / secrets
+.env
+.env.*
+*.key
+*.pem
+.venv/
+venv/

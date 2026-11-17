@@ -1,0 +1,41 @@
+{
+  "_comment": [
+    "Copy to configs/runs.json and point each entry at YOUR prediction",
+    "directories. Each PA-FC cell takes one directory per seed {42,191,999};",
+    "the reported value is the mean over seeds.",
+    "A directory must contain one of: predictions.jsonl, test_predictions.jsonl,",
+    "predictions.csv, report_test.json."
+  ],
+  "AVeriTeC": {
+    "PA-FC + Qwen2.5":   ["PREDS/averitec/qwen25_seed42",
+                          "PREDS/averitec/qwen25_seed191",
+                          "PREDS/averitec/qwen25_seed999"],
+    "PA-FC + Llama-3.1": ["PREDS/averitec/llama31_seed42",
+                          "PREDS/averitec/llama31_seed191",
+                          "PREDS/averitec/llama31_seed999"]
+  },
+  "PubHealth": {
+    "PA-FC + Qwen2.5":   ["PREDS/pubhealth/qwen25_seed42",
+                          "PREDS/pubhealth/qwen25_seed191",
+                          "PREDS/pubhealth/qwen25_seed999"],
+    "PA-FC + Llama-3.1": ["PREDS/pubhealth/llama31_seed42",
+                          "PREDS/pubhealth/llama31_seed191",
+                          "PREDS/pubhealth/llama31_seed999"]
+  },
+  "RAGuard": {
+    "PA-FC + Qwen2.5":   ["PREDS/raguard/qwen25_seed42",
+                          "PREDS/raguard/qwen25_seed191",
+                          "PREDS/raguard/qwen25_seed999"],
+    "PA-FC + Llama-3.1": ["PREDS/raguard/llama31_seed42",
+                          "PREDS/raguard/llama31_seed191",
+                          "PREDS/raguard/llama31_seed999"]
+  },
+  "LIAR-RAW": {
+    "PA-FC + Qwen2.5":   ["PREDS/liar_raw/qwen25_seed42",
+                          "PREDS/liar_raw/qwen25_seed191",
+                          "PREDS/liar_raw/qwen25_seed999"],
+    "PA-FC + Llama-3.1": ["PREDS/liar_raw/llama31_seed42",
+                          "PREDS/liar_raw/llama31_seed191",
+                          "PREDS/liar_raw/llama31_seed999"]
+  }
+}

@@ -1,0 +1,991 @@
+entries:
+- pattern: factcheck.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: politifact.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: snopes.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: leadstories.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: truthorfiction.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: checkyourfact.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcheck.afp.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factuel.afp.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: reuters.com/fact-check
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: apnews.com/hub/ap-fact-check
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: washingtonpost.com/news/fact-checker
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: bbc.com/news/reality_check
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: fullfact.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: channel4.com/news/factcheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcheckni.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: thejournal.ie/factcheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: aap.com.au/factcheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: abc.net.au/news/factcheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: rmit.edu.au/news/factlab
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: africacheck.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: dubawa.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: pesacheck.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcheckhub.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: ghanafact.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: namibiafactcheck.org.na
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: zimfact.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: chequeado.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: aosfatos.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: lupa.uol.com.br
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: projetocomprova.com.br
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: boatos.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: colombiacheck.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: ecuadorchequea.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: animalpolitico.com/elsabueso
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: verificado.com.mx
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: la-silla-vacia.com/detector-de-mentiras
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: ojo-publico.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: convoca.pe/verifica
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: efectococuyo.com/cocuyo-chequea
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: boliviaverifica.bo
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: maldita.es
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: newtral.es
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: verificat.cat
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: correctiv.org/faktencheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: mimikama.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: dpa-factchecking.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: apa.at/faktencheck
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: faktencheck.afp.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: faktabaari.fi
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: faktisk.no
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: tjekdet.dk
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: kallkritikbyran.se
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: demagog.org.pl
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: demagog.cz
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: manipulatori.cz
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: faktograf.hr
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: istinomer.rs
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: raskrinkavanje.ba
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: raskrinkavanje.me
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factual.ro
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: veridica.ro
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: stopfake.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: voxukraine.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: ellinikahoaxes.gr
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factreview.gr
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: teyit.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: dogrulukpayi.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: fatabyyano.net
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: misbar.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: kashif.ps
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: verify-sy.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: logicallyfacts.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: altnews.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: boomlive.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factly.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: thequint.com/news/webqoof
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: indiatoday.in/fact-check
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: vishvasnews.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: newschecker.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: youturn.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcrescendo.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: taiwanfactcheck.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: tfc-taiwan.org.tw
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: mygopen.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: cofacts.tw
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: annielab.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: verafiles.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: rappler.com/newsbreak/fact-check
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: tsek.ph
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: cekfakta.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: turnbackhoax.id
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: kompas.com/cekfakta
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: tempo.co/cekfakta
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: sebenarnya.my
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: mycheck.my
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcheckcenter.jp
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: fij.info
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: factcheck.snu.ac.kr
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: newstof.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: high
+  trust_prior: 0.8
+  source_basis: manual_seed
+  notes: Fact-checking organization or fact-check section. Fact-check sources must
+    still pass F11 leakage detection.
+  leakage_sensitive: true
+- pattern: afp.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: aap.com.au
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: newsmeter.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: newsmobile.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: healthfeedback.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: polygraph.info
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: factcheck.thedispatch.com
+  match_type: path_prefix
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: covid19facts.ca
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: icirnigeria.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: dataset_audit
+  trust_prior: 0.8
+  source_basis: averitec_dataset_audit
+  leakage_sensitive: true
+- pattern: thelogicalindian.com
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: medium
+  trust_prior: 0.8
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 36
+  example_claim_id: '20'
+  example_url: https://thelogicalindian.com/fact-check/pm-narendra-modi-battlefield-soldier-salary-viral-video-22023
+  deep_bucket_candidate: fact_checking_section_or_digital_news
+  notes: Indian digital outlet with fact-check section in evidence paths. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: facthunt.in
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: medium
+  trust_prior: 0.8
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '20'
+  example_url: https://facthunt.in/posts/1484/Truth-behind-the-viral-picture-showing-French-Teacher-who-was-beheaded-for
+  deep_bucket_candidate: fact_checker
+  notes: Indian fact-checking site. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: health-desk.org
+  match_type: registered_domain
+  bucket: fact_checker
+  confidence: medium
+  trust_prior: 0.8
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '41'
+  example_url: https://health-desk.org/articles/is-there-any-evidence-for-a-relationship-between-staph-infections-and-using-masks-to-prevent-the-spread-of-covid-19
+  deep_bucket_candidate: medical_fact_check_reference
+  notes: Health Desk health misinformation Q&A/fact-check style resource. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.

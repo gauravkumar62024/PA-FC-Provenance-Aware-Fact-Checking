@@ -1,0 +1,664 @@
+entries:
+- pattern: news.google.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: news.yahoo.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: msn.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: apple.news
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: flipboard.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: smartnews.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: ground.news
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: newsbreak.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: upday.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: feedly.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: inoreader.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: pocket.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: getpocket.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: instapaper.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: drudgereport.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: realclearpolitics.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: realclearmarkets.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: realclearhealth.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: realclearenergy.org
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: alltop.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: memeorandum.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: techmeme.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: mediagazer.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: fark.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: slashdot.org
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: digg.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: mix.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: stumbleupon.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: flip.it
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: newsnow.co.uk
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: einnews.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: worldnews.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: bignewsnetwork.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: wn.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: pressreader.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: newser.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: news360.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: dailyhunt.in
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: inshorts.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: shortpedia.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: opera.news
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: squidapp.co
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: inkl.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: haystack.tv
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: googlenews.google.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: aol.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: huffpost.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: buzzfeed.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: boingboing.net
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: metafilter.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: reddit.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: t.co
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: bit.ly
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: tinyurl.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: ow.ly
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: buff.ly
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: goo.gl
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: trib.al
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: dlvr.it
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: ift.tt
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: archive.org
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: webcache.googleusercontent.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: archive.ph
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: archive.is
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: perma.cc
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: 12ft.io
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: manual_seed
+  notes: Aggregator, archive, URL shortener, syndication, or copied-content routing
+    source. Resolve shorteners where possible.
+- pattern: archive.vn
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: archive.today
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: google.com/search
+  match_type: path_prefix
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: play.google.com/store/books
+  match_type: path_prefix
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: rev.com/blog/transcripts
+  match_type: path_prefix
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.45
+  source_basis: averitec_dataset_audit
+- pattern: calculator-1.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: calculator.net
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: dataset_audit
+  trust_prior: 0.4
+  source_basis: averitec_dataset_audit
+- pattern: wikipedia.org
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 74
+  example_claim_id: '3'
+  example_url: https://en.wikipedia.org/wiki/Talk%3ANadar_(caste)%2FArchive_1
+  deep_bucket_candidate: reference_encyclopedia
+  notes: Reference encyclopedia; useful background but not primary evidence. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: britannica.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '52'
+  example_url: https://kids.britannica.com/students/article/Ferdinand-E-Marcos/275688
+  deep_bucket_candidate: reference_encyclopedia
+  notes: Encyclopedia/reference source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: biography.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '52'
+  example_url: https://www.biography.com/political-figures/ferdinand-marcos
+  deep_bucket_candidate: reference_encyclopedia
+  notes: Biographical reference/media source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: worldatlas.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '195'
+  example_url: https://www.worldatlas.com/articles/countries-with-a-population-over-200-million.html
+  deep_bucket_candidate: reference_encyclopedia
+  notes: Reference/geography site. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: knowyourmeme.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '12'
+  example_url: https://knowyourmeme.com/memes/new-zealand-gardening-law-hoax
+  deep_bucket_candidate: reference_encyclopedia
+  notes: Meme/reference database. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: yahoo.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 54
+  example_claim_id: '1'
+  example_url: https://finance.yahoo.com/news/leaked-trump-admin-document-describes-191559664.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: amazonaws.com
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '8'
+  example_url: https://usvotefoundation-drupal.s3.amazonaws.com/prod/StudyAbroad_DoesMyBallotGetCounted.pdf
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: change.org
+  match_type: registered_domain
+  bucket: aggregator
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '163'
+  example_url: https://www.change.org/p/assembl%C3%A9e-nationale-du-qu%C3%A9bec-rendre-radio-qu%C3%A9bec-un-service-essentiel-d-information-francophone
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.

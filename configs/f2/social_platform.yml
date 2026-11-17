@@ -1,0 +1,497 @@
+entries:
+- pattern: x.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: twitter.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: mobile.twitter.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: facebook.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: m.facebook.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: instagram.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: threads.net
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: tiktok.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: youtube.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: youtu.be
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: snapchat.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: reddit.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: old.reddit.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: linkedin.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: pinterest.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: tumblr.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: mastodon.social
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: bsky.app
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: threads.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: truthsocial.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: gettr.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: gab.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: parler.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: mewe.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: vk.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: ok.ru
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: weibo.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: m.weibo.cn
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: wechat.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: qq.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: douyin.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: kuaishou.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: bilibili.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: xiaohongshu.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: zhihu.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: telegram.org
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: t.me
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: discord.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: discord.gg
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: whatsapp.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: signal.org
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: line.me
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: kakao.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: band.us
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: viber.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: imo.im
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: flickr.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: imgur.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: 9gag.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: twitch.tv
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: kick.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: rumble.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: odysee.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: bitchute.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: dailymotion.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: vimeo.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: quora.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: nextdoor.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: clubhouse.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: patreon.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: substack.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.
+- pattern: medium.com
+  match_type: registered_domain
+  bucket: social_platform
+  confidence: medium
+  trust_prior: 0.25
+  source_basis: manual_seed
+  notes: Social or creator platform. Useful for claim context, weak for independent
+    verification.

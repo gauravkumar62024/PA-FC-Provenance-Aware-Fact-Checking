@@ -1,0 +1,52 @@
+### PA-FC — RAGuard, Llama-3.1-8B-Instruct
+### Primary results configuration. Hyperparameters are per-dataset (see
+### docs/PIPELINE.md); they are NOT shared across datasets.
+###
+### Run once per seed in {42, 191, 999} and average: edit `seed` and `output_dir`,
+### or override on the command line.
+
+### model
+model_name_or_path: meta-llama/Llama-3.1-8B-Instruct
+quantization_bit: 4
+quantization_method: bitsandbytes
+double_quantization: true
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+lora_rank: 16
+lora_alpha: 32
+lora_dropout: 0.05
+
+### dataset
+### Register this name in LLaMA-Factory's data/dataset_info.json, pointing at the
+### SFT file produced by scripts/run_pipeline.sh.
+dataset: pafc_raguard_train
+template: llama3
+cutoff_len: 4096
+max_samples: 100000
+overwrite_cache: true
+preprocessing_num_workers: 8
+
+### output
+output_dir: saves/pafc/raguard_llama_seed42
+logging_steps: 10
+save_steps: 100
+plot_loss: false
+overwrite_output_dir: true
+report_to: none
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 2.0e-4
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+gradient_checkpointing: true
+seed: 42
+val_size: 0.0

@@ -1,0 +1,601 @@
+entries:
+- pattern: medium.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: substack.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: wordpress.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: wordpress.org
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: blogspot.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: blogger.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: tumblr.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: ghost.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: typepad.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: wixsite.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: wix.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: squarespace.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: weebly.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: webflow.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: webflow.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: notion.site
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: notion.so
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: telegra.ph
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: write.as
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: hashnode.dev
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: hashnode.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: dev.to
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: mirror.xyz
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: beehiiv.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: buttondown.email
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: convertkit.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: ck.page
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: revue.co
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: tinyletter.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: newsletter.co
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: livejournal.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: dreamwidth.org
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: bloglovin.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: blogger.de
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: over-blog.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: canalblog.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: skyrock.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: jimdosite.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: jimdo.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: strikingly.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: site123.me
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: yolasite.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: hubpages.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: scoop.it
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: vocal.media
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: wattpad.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: fanfiction.net
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: github.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: gitlab.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: pages.dev
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: netlify.app
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: vercel.app
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: firebaseapp.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: web.app
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: readthedocs.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: mkdocs.io
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: carrd.co
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: about.me
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: teachable.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: thinkific.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: podbean.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: anchor.fm
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: rss.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.45
+  source_basis: manual_seed
+  notes: Blog/CMS/self-publishing/hosting platform. Hosting platform does not imply
+    low quality.
+- pattern: lindaikejisblog.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '72'
+  example_url: https://www.lindaikejisblog.com/2018/8/none-of-president-buharis-daughter-is-a-member-of-the-nnpc-board-presidential-aide-bashir-ahmad-reacts-to-misleading-tweet.html
+  deep_bucket_candidate: blog_cms
+  notes: Named blog source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: tfipost.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '90'
+  example_url: https://tfipost.com/2017/12/kirron-kher-rape-statement-01/
+  deep_bucket_candidate: partisan_or_ideological_publication
+  notes: Partisan/opinion source; provenance should mark partisan. Candidate from
+    retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: mensxp.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '98'
+  example_url: https://www.mensxp.com/technology/hacks/81011-iphone-12-box-wont-have-earphones.html
+  deep_bucket_candidate: lifestyle_blog_media
+  notes: Lifestyle/entertainment digital media. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: swarajyamag.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '178'
+  example_url: https://swarajyamag.com/insta/no-sukhoi-su-30-was-shot-down-paf-was-hastily-forced-to-withdraw-indian-air-force-debunks-pakistani-claims
+  deep_bucket_candidate: partisan_or_ideological_publication
+  notes: Opinion/ideological magazine; provenance should mark partisan. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dailyo.in
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '365'
+  example_url: https://www.dailyo.in/politics/muslims-upsc-civil-services-higher-education-amu-jamia-millia-waqf-boards-funds-5136
+  deep_bucket_candidate: opinion_blog_media
+  notes: Opinion/blog media source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: organiser.org
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: medium
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '414'
+  example_url: https://organiser.org/2020/07/01/129077/bharat/demographic-genocide-in-china/
+  deep_bucket_candidate: partisan_or_ideological_publication
+  notes: Ideological publication; provenance should mark partisan. Candidate from
+    retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: autoblog.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: low
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '380'
+  example_url: https://www.autoblog.com/2020/08/10/joe-biden-electric-corvette/
+  deep_bucket_candidate: probable_blog_review
+  notes: Heuristic blog-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: hindu-blog.com
+  match_type: registered_domain
+  bucket: blog_cms
+  confidence: low
+  trust_prior: 0.4
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '456'
+  example_url: https://www.hindu-blog.com/2008/09/origin-of-goddess-kali.html
+  deep_bucket_candidate: probable_blog_review
+  notes: Heuristic blog-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.

@@ -1,0 +1,37 @@
+### PA-FC — LIAR-RAW, REFLEX trainer
+### LIAR-RAW is the one dataset that does NOT go through LLaMA-Factory. REFLEX
+### has its own SFT loop, so these values are consumed by scripts/train_reflex.py
+### (via scripts/train_liar_raw.sh), not by `llamafactory-cli train`.
+###
+### Run once per seed in {42, 191, 999} and average.
+
+### model  (set --backbone qwen|llama on the command line)
+qwen_model:  Qwen/Qwen2.5-7B-Instruct
+llama_model: meta-llama/Llama-3.1-8B-Instruct
+quantization_bit: 4
+quantization_method: bitsandbytes
+
+### method
+stage: sft
+finetuning_type: lora
+lora_target: all
+lora_rank: 16
+lora_alpha: 32
+lora_dropout: 0.05
+
+### data
+### 6,168 train / 1,251 test. Labels are collapsed 6-way -> 3-way identically on
+### gold and predictions (see docs/DATASETS.md).
+num_labels: 3
+
+### train
+### NOTE the learning rate: REFLEX uses 2e-5, an order of magnitude below the
+### LLaMA-Factory datasets. Training at 1e-4 or 2e-4 does not reproduce the
+### reported LIAR-RAW numbers.
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 96
+learning_rate: 2.0e-5
+num_train_epochs: 3.0
+bf16: true
+gradient_checkpointing: true
+seed: 42

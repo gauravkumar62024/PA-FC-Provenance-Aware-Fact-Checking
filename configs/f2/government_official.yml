@@ -1,0 +1,1256 @@
+entries:
+- pattern: .gov
+  match_type: suffix
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: .mil
+  match_type: suffix
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: .gov.uk
+  match_type: suffix
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: service.gov.uk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: parliament.uk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: nhs.uk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: police.uk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mod.uk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gc.ca
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: canada.ca
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: parl.ca
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: australia.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: my.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: health.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: ato.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: nsw.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: qld.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: vic.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: wa.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: sa.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: tas.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: nt.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: act.gov.au
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: govt.nz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: beehive.govt.nz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: parliament.nz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: health.govt.nz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: stats.govt.nz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: india.gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: nic.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mygov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: pib.gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: pmindia.gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mohfw.gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: uidai.gov.in
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: singapore.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: moh.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mom.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mfa.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: data.gov.sg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.hk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.cn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: npc.gov.cn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: stats.gov.cn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.tw
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: president.gov.tw
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: ey.gov.tw
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.kr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.br
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: planalto.gov.br
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: senado.leg.br
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: camara.leg.br
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.za
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ng
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.gh
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.ke
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.rw
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ug
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.ug
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.tz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.tz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.et
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.eg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ma
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gouv.fr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: service-public.fr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gouvernement.fr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: elysee.fr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: bund.de
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: bundesregierung.de
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: bundestag.de
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: admin.ch
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: ch.ch
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: fgov.be
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: belgium.be
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: government.nl
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: rijksoverheid.nl
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ie
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.it
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: governo.it
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.es
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: lamoncloa.gob.es
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.pt
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: portugal.gov.pt
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.pl
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.cz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: vlada.gov.cz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.sk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.si
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.hr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.gr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ro
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.bg
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: regeringen.se
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: riksdagen.se
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: regjeringen.no
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: stortinget.no
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: suomi.fi
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: valtioneuvosto.fi
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: stm.dk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ee
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: mk.gov.lv
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: lrv.lt
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: kmu.gov.ua
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: rada.gov.ua
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.tr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: turkiye.gov.tr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: tccb.gov.tr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.il
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: knesset.gov.il
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ae
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: u.ae
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.sa
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: my.gov.sa
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.qa
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.om
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.bh
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.kw
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.jo
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.pk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.bd
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.lk
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.np
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ir
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.iq
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.az
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: egov.kz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.kz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.uz
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.ph
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.my
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.id
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.id
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: indonesia.go.id
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.vn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: chinhphu.vn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.th
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.mx
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.ar
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: argentina.gob.ar
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.cl
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.pe
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.bo
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.ec
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gub.uy
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.py
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.co
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: go.cr
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.pa
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.gt
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.sv
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.hn
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.ni
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.do
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gob.cu
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: gov.jm
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: europa.eu
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: ec.europa.eu
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: consilium.europa.eu
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: europarl.europa.eu
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: un.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: who.int
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: worldbank.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: imf.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: oecd.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: wto.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: iaea.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: ilo.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: unesco.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: fao.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: high
+  trust_prior: 0.95
+  source_basis: manual_seed
+  notes: Official government, public agency, parliament, or intergovernmental source.
+- pattern: vote411.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: medium
+  trust_prior: 0.95
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '18'
+  example_url: http://www.vote411.org/california
+  deep_bucket_candidate: civic_voting_reference
+  notes: League of Women Voters civic/voting information source. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: paho.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: medium
+  trust_prior: 0.95
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '13'
+  example_url: https://www.paho.org/en/news/28-2-2020-face-masks-during-outbreaks-who-when-where-and-how-use-them
+  deep_bucket_candidate: intergovernmental_health
+  notes: Pan American Health Organization, intergovernmental health body. Candidate
+    from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: vote.org
+  match_type: registered_domain
+  bucket: government_official
+  confidence: medium
+  trust_prior: 0.95
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '17'
+  example_url: https://www.vote.org/absentee-ballot-deadlines/
+  deep_bucket_candidate: civic_voting_reference
+  notes: Voting information nonprofit; civic source, not government but authoritative
+    utility. Candidate from retrieved AVeriTeC/HerO2 evidence; review before final
+    paper run.

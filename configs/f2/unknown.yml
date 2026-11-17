@@ -1,0 +1,9 @@
+entries:
+- pattern: '*'
+  match_type: fallback
+  bucket: unknown
+  confidence: low
+  trust_prior: 0.5
+  source_basis: fallback_rule
+  notes: Use only when no medium, path, registered-domain, suffix, or provider rule
+    matches. Unknown means not covered, not unreliable.

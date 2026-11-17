@@ -1,0 +1,97 @@
+schema_version: '1.0'
+feature: F3_domain_trust
+purpose: Assign a domain-level trust prior T_i in [0,1] for PA-FC evidence admission.
+  This is not a truth label and not a final claim-veracity decision.
+score_semantics:
+  0.90_1.00: Very high prior trust, usually official or scholarly primary source;
+    still requires temporal, relation, leakage, and circularity checks.
+  0.70_0.89: Moderately high prior trust, usually established editorial or fact-checking
+    source; fact-checking evidence remains leakage-sensitive.
+  0.45_0.69: Neutral or uncertain prior; not enough evidence for either high trust
+    or low trust.
+  0.25_0.44: Low prior trust because source is user-generated, aggregating, or weakly
+    edited.
+  0.00_0.24: Very low prior trust or safety/admissibility risk; do not infer claim
+    falsity solely from this score.
+bucket_defaults:
+  government_official:
+    default_trust_prior: 0.95
+    trust_level: very_high
+    rationale: Usually primary for official policy, statistics, regulation, and agency
+      action, while still requiring temporal and relation checks.
+  academic_scientific:
+    default_trust_prior: 0.9
+    trust_level: very_high
+    rationale: Strong scholarly provenance for scientific, technical, and medical
+      claims, but not automatically current or claim-specific.
+  fact_checker:
+    default_trust_prior: 0.8
+    trust_level: high_but_leakage_sensitive
+    rationale: Often editorially reliable, but must be separated from F11 because
+      fact-check pages can reveal the target verdict.
+  established_news:
+    default_trust_prior: 0.75
+    trust_level: moderately_high
+    rationale: Professional editorial process and accountability, but still secondary
+      reporting and sometimes source-dependent.
+  unknown:
+    default_trust_prior: 0.5
+    trust_level: neutral
+    rationale: Unknown means not covered by available lists; absence from a list is
+      not evidence of unreliability.
+  blog_cms:
+    default_trust_prior: 0.45
+    trust_level: neutral_low
+    rationale: Self-published or platform-hosted material may be high quality, but
+      provenance and editorial accountability are uncertain.
+  aggregator:
+    default_trust_prior: 0.4
+    trust_level: low_to_neutral
+    rationale: Aggregators and archives are useful for discovery, but they are usually
+      not original sources.
+  forum_community:
+    default_trust_prior: 0.3
+    trust_level: low
+    rationale: User-generated content can provide claim context, but usually lacks
+      editorial verification.
+  social_platform:
+    default_trust_prior: 0.25
+    trust_level: low
+    rationale: Volatile user-generated content; useful for what was claimed, weak
+      as independent verification.
+  low_credibility_news:
+    default_trust_prior: 0.15
+    trust_level: very_low_watchlist
+    rationale: Source appears in low-factuality, misinformation, or external watchlist
+      resources; this is a prior, not proof that any claim is false.
+  cyber_abuse_or_fraud_signal:
+    default_trust_prior: 0.05
+    trust_level: severe_admissibility_risk
+    rationale: Phishing, malware, spam, or abuse-intelligence signal. This is an admissibility/safety
+      signal, not a fact-checking source label.
+combination_policy:
+  primary_signal_order:
+  - explicit external domain rating when supplied
+  - domain/path/suffix trust override from f3_domain_trust_priors.yml
+  - F2 bucket default from this config
+  - unknown neutral prior
+  external_rating_combination: If an external normalized score is supplied, combine
+    as 0.70*external + 0.30*bucket_default unless strict_external_override=true.
+  cyber_abuse_rule: If cyber_abuse_signal=true, set T_i=min(T_i, 0.05) and flag the
+    item for exclusion/audit.
+  fact_checker_rule: Fact-checking sources can have high trust but must be passed
+    to F11 label-leakage detection.
+recommended_sensitivity_tests:
+- 'Replace continuous priors with coarse bins: very_high/high/neutral/low/very_low.'
+- Perturb non-extreme priors by +/-20 percent with fixed seeds.
+- Ablate F3 entirely by setting all T_i=0.50.
+- Ablate source-family priors while keeping F2 source type.
+- Compare domain-prior-only scoring against external provider scores where available.
+limitations:
+- Domain-level priors are coarse and may miss article-level quality.
+- Regional and non-English sources may be under-covered by curated lists.
+- Low-credibility membership is a watchlist prior, not proof of falsehood.
+- Fact-checking domains can be trustworthy but inadmissible when they leak the target
+  verdict.
+- Unknown domains receive a neutral prior because absence from a list is not evidence
+  of unreliability.

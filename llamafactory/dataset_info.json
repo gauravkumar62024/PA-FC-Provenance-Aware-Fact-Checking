@@ -1,0 +1,47 @@
+{
+  "pafc_averitec_train": {
+    "file_name": "pafc_averitec_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "pafc_averitec_eval": {
+    "file_name": "pafc_averitec_eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "pafc_raguard_train": {
+    "file_name": "pafc_raguard_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "pafc_raguard_eval": {
+    "file_name": "pafc_raguard_eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "pafc_raguard_test": {
+    "file_name": "pafc_raguard_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }
+}

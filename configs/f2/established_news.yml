@@ -1,0 +1,2190 @@
+entries:
+- pattern: reuters.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: apnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: bbc.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: bbc.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: cnn.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: nytimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: washingtonpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: wsj.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: theguardian.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: thetimes.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: ft.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: economist.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: bloomberg.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: cnbc.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: nbcnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: abcnews.go.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: cbsnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: npr.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: pbs.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: latimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: usatoday.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: time.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: newsweek.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: politico.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: axios.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: thehill.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: vox.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: theatlantic.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: newyorker.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: aljazeera.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: dw.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: france24.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: rfi.fr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: lemonde.fr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: lefigaro.fr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: liberation.fr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: elpais.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: elmundo.es
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: abc.es
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: lavanguardia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: ansa.it
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: repubblica.it
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: corriere.it
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: rainews.it
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: theglobeandmail.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: cbc.ca
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: ctvnews.ca
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: globalnews.ca
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: abc.net.au
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: sbs.com.au
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: smh.com.au
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: theage.com.au
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: nzherald.co.nz
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: rnz.co.nz
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: stuff.co.nz
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: japantimes.co.jp
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: nhk.or.jp
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: asahi.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: mainichi.jp
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: japantoday.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: koreaherald.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: koreatimes.co.kr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: straitstimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: channelnewsasia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: scmp.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: thehindu.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: indianexpress.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: hindustantimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: timesofindia.indiatimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: ndtv.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: theprint.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: scroll.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: livemint.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: business-standard.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: dawn.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: geo.tv
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: bdnews24.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: thedailystar.net
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: arabnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: haaretz.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: timesofisrael.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: jpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: hurriyetdailynews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: dailysabah.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: nation.africa
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: standardmedia.co.ke
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: news24.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: dailymaverick.co.za
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: premiumtimesng.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: vanguardngr.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: punchng.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: folha.uol.com.br
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: estadao.com.br
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: globo.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: clarin.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: lanacion.com.ar
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: eltiempo.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: manual_seed
+  notes: Recognized professional news organization with editorial structure. Not a
+    truth label.
+- pattern: channelstv.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: indiatimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: foxnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: nypost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: businessinsider.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: dailymail.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.65
+  source_basis: averitec_dataset_audit
+- pattern: dailytrust.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: newsroom.co.nz
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: theconversation.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: thesun.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.65
+  source_basis: averitec_dataset_audit
+- pattern: metro.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: abc10.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: brisbanetimes.com.au
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: businessdesk.co.nz
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: cbs58.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: thecable.ng
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.7
+  source_basis: averitec_dataset_audit
+- pattern: rappler.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: forbes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: buzzfeednews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: independent.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: vice.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: dataset_audit
+  trust_prior: 0.75
+  source_basis: averitec_dataset_audit
+- pattern: voanews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 58
+  example_claim_id: '2'
+  example_url: https://www.voanews.com/a/europe_pakistani-pm-french-leader-stoking-islamophobia/6197586.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: indiatoday.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 58
+  example_claim_id: '14'
+  example_url: https://www.indiatoday.in/india/story/india-calls-for-permanently-removing-jammu-and-kashmir-issue-under-outdated-agenda-item-from-unsc-1717641-2020-09-02
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: economictimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 34
+  example_claim_id: '14'
+  example_url: https://m.economictimes.com/news/politics-and-nation/jammu-and-kashmir-removed-from-list-of-disputes-under-un/articleshow/6927150.cms
+  deep_bucket_candidate: established_news
+  notes: Professional news/business outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: timesofindia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 34
+  example_claim_id: '14'
+  example_url: https://m.timesofindia.com/india/unsc-doesnt-list-jk-as-dispute/articleshow/6931920.cms
+  deep_bucket_candidate: established_news
+  notes: Professional news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: qz.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 32
+  example_claim_id: '183'
+  example_url: https://qz.com/131408/99-of-the-more-than-100000-kidnappings-in-mexico-last-year-went-unreported
+  deep_bucket_candidate: established_news
+  notes: Professional news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: dailypost.ng
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 30
+  example_claim_id: '30'
+  example_url: https://dailypost.ng/2020/10/26/pogba-clears-air-on-resignation-rumours-after-president-macrons-comments/
+  deep_bucket_candidate: regional_news
+  notes: Nigerian professional news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: statesman.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 26
+  example_claim_id: '8'
+  example_url: https://www.statesman.com/story/news/politics/elections/2020/10/29/fact-check-is-counting-ballots-weeks-after-election-day-illegal/114534454/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: newindianexpress.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 24
+  example_claim_id: '54'
+  example_url: https://www.newindianexpress.com/business/2020/Sep/21/indian-steelmakers-turn-net-exporters-to-china-in-april-august-crisil-2199951.html
+  deep_bucket_candidate: established_news
+  notes: Professional Indian news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: inquirer.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 22
+  example_claim_id: '22'
+  example_url: https://www.inquirer.com/politics/election/election-2020-ballot-box-trash-can-ad-philadelphia-union-league-foundation-20201023.html
+  deep_bucket_candidate: regional_news
+  notes: Professional news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: oneindia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 20
+  example_claim_id: '54'
+  example_url: https://www.oneindia.com/fact-check/fake-india-s-import-to-china-has-not-increased-by-27-per-cent-3165856.html
+  deep_bucket_candidate: digital_news
+  notes: Indian digital news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: india.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 20
+  example_claim_id: '67'
+  example_url: https://www.india.com/education/neet-2020-result-blunder-aspirant-declared-failed-emerges-as-topper-deets-here-4179014/
+  deep_bucket_candidate: digital_news
+  notes: Indian digital news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: businessday.ng
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 20
+  example_claim_id: '125'
+  example_url: https://businessday.ng/lead-story/article/updated-nigerias-economy-contracts-6-1-in-q2-first-negative-growth-in-3yrs/
+  deep_bucket_candidate: regional_business_news
+  notes: Nigerian business news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: denverpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '31'
+  example_url: https://www.denverpost.com/2020/10/26/barrett-confirmed-supreme-court-partisan-vote/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: detroitnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 18
+  example_claim_id: '58'
+  example_url: https://www.detroitnews.com/story/news/nation/2020/04/01/putin-sends-military-plane-coronavirus-aid-help-us/111516124/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: statnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 16
+  example_claim_id: '6'
+  example_url: https://www.statnews.com/2020/06/19/faster-response-prevented-most-us-covid-19-deaths/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: spectrumlocalnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 16
+  example_claim_id: '40'
+  example_url: https://spectrumlocalnews.com/ap-top-news/2020/10/24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden
+  deep_bucket_candidate: regional_news
+  notes: Local news network. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: people.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 16
+  example_claim_id: '40'
+  example_url: https://people.com/politics/joe-biden-campaign-concert-featuring-cher-bon-jovi-more/
+  deep_bucket_candidate: entertainment_news
+  notes: Professional entertainment/news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: thedailybeast.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 16
+  example_claim_id: '58'
+  example_url: https://www.thedailybeast.com/beware-of-russians-bearing-coronavirus-gifts
+  deep_bucket_candidate: digital_news
+  notes: Professional digital news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: timesnownews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 16
+  example_claim_id: '101'
+  example_url: https://www.timesnownews.com/india/article/tanishq-ad-row-news-about-attack-on-store-in-gujarat-false-owner-was-just-asked-to-write-apology-letter/667051
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: foxbusiness.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '23'
+  example_url: https://www.foxbusiness.com/markets/biden-federal-fracking-ban
+  deep_bucket_candidate: business_news
+  notes: Professional business news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: theweek.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '28'
+  example_url: https://www.theweek.in/news/sports/2020/10/26/paul-pogba-to-quit-french-national-team-over-macrons-comments-on-islam.html
+  deep_bucket_candidate: regional_news
+  notes: Professional Indian news/magazine outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: thewire.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '29'
+  example_url: https://thewire.in/media/fact-check-viral-durga-puja-screenshot
+  deep_bucket_candidate: digital_news
+  notes: Professional Indian news outlet; also fact-check path may need path rule.
+    Candidate from retrieved AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: abplive.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '51'
+  example_url: https://news.abplive.com/news/india/bihar-election-2020-bihar-news-nirmala-sitharaman-bjp-free-coronavirus-covid-19-vaccine-funny-reactions-1370919
+  deep_bucket_candidate: regional_news
+  notes: Indian news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: seattletimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '226'
+  example_url: https://www.seattletimes.com/seattle-news/politics/washington-was-a-vote-by-mail-pioneer-now-other-states-are-following-suit-amid-coronavirus/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: news18.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 14
+  example_claim_id: '275'
+  example_url: https://www.news18.com/news/business/reliance-retail-closes-second-deal-in-2-weeks-to-get-rs-5550-crore-from-us-equity-firm-kkr-2900597.html
+  deep_bucket_candidate: regional_news
+  notes: Indian news network. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: aa.com.tr
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '28'
+  example_url: https://www.aa.com.tr/en/sports/french-star-pogba-denies-rumors-about-intl-retirement/2019611
+  deep_bucket_candidate: wire_news
+  notes: Anadolu Agency wire/news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: motherjones.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '32'
+  example_url: https://www.motherjones.com/politics/2016/10/clinton-trump-newspaper-endorsements/
+  deep_bucket_candidate: magazine_news
+  notes: Professional magazine/news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: jsonline.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '36'
+  example_url: https://www.jsonline.com/story/news/politics/2019/03/20/wisconsin-gerrymandering-case-speaker-robin-vos-refuses-testify/3222777002/
+  deep_bucket_candidate: regional_news
+  notes: Milwaukee Journal Sentinel regional newspaper. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: thenewsminute.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '51'
+  example_url: https://www.thenewsminute.com/tamil-nadu/everyone-tamil-nadu-will-get-covid-19-vaccine-free-cm-eps-135923
+  deep_bucket_candidate: regional_news
+  notes: Indian regional digital news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: the-sun.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '53'
+  example_url: https://www.the-sun.com/news/1664619/fbi-has-seized-hunter-bidens-laptop-believe-not-russian-disinformation/
+  deep_bucket_candidate: tabloid_news
+  notes: Professional tabloid news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: courthousenews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '73'
+  example_url: https://www.courthousenews.com/taiwanese-chinese-staffers-injured-after-cake-fueled-clash-in-fiji/
+  deep_bucket_candidate: legal_news
+  notes: Court/legal news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: washingtonexaminer.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '100'
+  example_url: https://www.washingtonexaminer.com/opinion/1528306/biden-disavows-green-new-deal-co-sponsored-by-kamala-harris/
+  deep_bucket_candidate: political_news
+  notes: Professional political news outlet. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: desmoinesregister.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '135'
+  example_url: https://www.desmoinesregister.com/story/news/politics/2018/02/24/farm-bureau-wellmark-would-skirt-obamacare-rules-under-iowa-legislation/331275002/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: azcentral.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '145'
+  example_url: https://www.azcentral.com/story/news/politics/arizona/2020/10/07/mike-pence-mentions-kayla-mueller-arizona-woman-killed-syria/5919236002/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: saharareporters.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '166'
+  example_url: https://saharareporters.com/2019/06/05/918-million-nigerians-are-extremely-poor-says-world-poverty-clock
+  deep_bucket_candidate: regional_news
+  notes: Nigerian investigative/news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: indiatomorrow.net
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 12
+  example_claim_id: '345'
+  example_url: https://old.indiatomorrow.net/eng/over-75-of-muslim-recruits-for-civil-services-dont-get-ias-postings
+  deep_bucket_candidate: regional_news
+  notes: Indian news source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: kffhealthnews.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 11
+  example_claim_id: '65'
+  example_url: https://kffhealthnews.org/news/uninsured-people-eligible-for-obamacare-face-average-969-penalty-in-2016/
+  deep_bucket_candidate: health_news
+  notes: Health news source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: newsclick.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '20'
+  example_url: https://www.newsclick.in/old-video-rajasthan-shared-muslims-chanting-slogans-islamic-supremacy-delhi-polls
+  deep_bucket_candidate: digital_news
+  notes: Indian digital news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: scientificamerican.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '56'
+  example_url: https://www.scientificamerican.com/article/eight-persistent-covid-19-myths-and-why-people-believe-them/
+  deep_bucket_candidate: science_magazine_news
+  notes: Established science magazine/news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: newscientist.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '69'
+  example_url: https://www.newscientist.com/article/dn14458-bacteria-were-the-real-killers-in-1918-flu-pandemic/
+  deep_bucket_candidate: science_magazine_news
+  notes: Established science magazine/news source. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: naijanews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '81'
+  example_url: https://www.naijanews.com/buzz/people/kristen-welker-married-husband-parents-bio-salary-ethnicity/
+  deep_bucket_candidate: regional_news
+  notes: Nigerian digital news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: dnaindia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '85'
+  example_url: https://www.dnaindia.com/india/report-explain-why-there-s-jinnah-portrait-inside-campus-bjp-lawmaker-writes-to-aligarh-muslim-university-2610390
+  deep_bucket_candidate: regional_news
+  notes: Indian news outlet. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: sundayguardianlive.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '109'
+  example_url: https://sundayguardianlive.com/news/2-bjp-workers-killed-every-month-bengal-one-year
+  deep_bucket_candidate: regional_news
+  notes: Indian newspaper/news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: guardian.ng
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '125'
+  example_url: https://guardian.ng/opinion/gdp-q2-2020-numbers-explained/
+  deep_bucket_candidate: regional_news
+  notes: Nigerian newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: nairametrics.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '125'
+  example_url: https://nairametrics.com/2020/08/24/breaking-nigerias-gdp-contracts-by-6-10-in-q2-2020-as-critical-sectors-plunge/
+  deep_bucket_candidate: business_news
+  notes: Nigerian business news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: startribune.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '142'
+  example_url: https://www.startribune.com/deaths-rise-after-rural-hospitals-close-u-study-finds/561473042/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: whyy.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '151'
+  example_url: https://whyy.org/articles/pa-house-votes-to-bar-shutting-down-churches-in-disasters/
+  deep_bucket_candidate: public_media_news
+  notes: Public media/news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: foreignaffairs.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '199'
+  example_url: https://www.foreignaffairs.com/reviews/capsule-review/1980-06-01/nigerian-government-and-politics-under-military-rule-1966-1979
+  deep_bucket_candidate: policy_magazine_news
+  notes: Established foreign-policy magazine. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: salon.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 10
+  example_claim_id: '263'
+  example_url: https://www.salon.com/2020/09/25/insult-to-every-family-trump-unveils-bogus-health-care-plan-that-doesnt-actually-do-anything/
+  deep_bucket_candidate: digital_news
+  notes: Digital news/opinion magazine. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: nbcmontana.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '7'
+  example_url: https://nbcmontana.com/news/nation-world/ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017-09-27-2020-09-27-2020
+  deep_bucket_candidate: regional_news
+  notes: Local news source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: zeebiz.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '28'
+  example_url: https://www.zeebiz.com/world/news-paul-pogba-reportedly-quits-playing-for-france-after-president-emmanuel-macrons-islam-mention-138073
+  deep_bucket_candidate: business_news
+  notes: Indian business news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: fox6now.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '36'
+  example_url: https://www.fox6now.com/news/boss-vos-as-walker-exits-robin-vos-ready-to-become-most-powerful-republican-in-wisconsin
+  deep_bucket_candidate: regional_news
+  notes: Local news source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: nbcphiladelphia.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '40'
+  example_url: https://www.nbcphiladelphia.com/news/politics/decision-2020/bon-jovi-plays-at-biden-event-after-candidate-visits-bucks-county/2572756/
+  deep_bucket_candidate: regional_news
+  notes: Local NBC news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: medicalxpress.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '41'
+  example_url: https://medicalxpress.com/news/2018-12-masks-hog-farm-workers-household.html
+  deep_bucket_candidate: science_medical_news
+  notes: Medical/science news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: nationalgeographic.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '44'
+  example_url: https://www.nationalgeographic.com/science/article/uk-backed-off-on-herd-immunity-to-beat-coronavirus-we-need-it
+  deep_bucket_candidate: science_magazine_news
+  notes: Established science/geography magazine. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: indiatvnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '51'
+  example_url: https://www.indiatvnews.com/opinion/news-bihar-election-2020-poll-promises-jobs-development-standards-of-living-bjp-rjd-jdu-ljp-pm-modi-659069
+  deep_bucket_candidate: regional_news
+  notes: Indian news source. Candidate from retrieved AVeriTeC/HerO2 evidence; review
+    before final paper run.
+- pattern: moneycontrol.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '51'
+  example_url: https://www.moneycontrol.com/news/india/theyre-deriding-biharis-randeep-singh-surjewala-on-bjps-vaccine-poll-promise-in-bihar-5999761.html
+  deep_bucket_candidate: business_news
+  notes: Indian business news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: businesstoday.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '67'
+  example_url: https://www.businesstoday.in/latest/trends/story/major-blunder-in-neet-results-student-who-failed-found-to-be-the-topper-276333-2020-10-20
+  deep_bucket_candidate: business_news
+  notes: Indian business news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: firstpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '85'
+  example_url: https://www.firstpost.com/india/jinnahs-portrait-means-nothing-to-us-say-amu-students-and-teachers-allege-right-wing-elements-raising-non-issue-4456567.html
+  deep_bucket_candidate: digital_news
+  notes: Indian digital news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: standard.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '94'
+  example_url: https://www.standard.co.uk/topic/dustin-diamond
+  deep_bucket_candidate: regional_news
+  notes: Evening Standard newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: ibtimes.co.in
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '94'
+  example_url: https://www.ibtimes.co.in/hoax-busted-saved-by-bell-star-dustin-diamond-charged-murder-after-stabbing-victim-dies-fake-619226
+  deep_bucket_candidate: digital_news
+  notes: International Business Times India. Candidate from retrieved AVeriTeC/HerO2
+    evidence; review before final paper run.
+- pattern: dispatch.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '102'
+  example_url: https://www.dispatch.com/story/opinion/columns/2020/09/10/column-kanyersquos-influence-on-election-is-real-wild-card/113752856/
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: oregonlive.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '122'
+  example_url: https://www.oregonlive.com/nation/2020/10/security-guard-arrested-in-fatal-shooting-at-opposing-denver-protests.html
+  deep_bucket_candidate: regional_news
+  notes: US regional news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: jerseyeveningpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 8
+  example_claim_id: '185'
+  example_url: https://www.jerseyeveningpost.com/morenews/worldnews/2020/10/02/donald-and-melania-trump-test-positive-for-covid-19/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: deseret.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '4'
+  example_url: https://www.deseret.com/2013/5/9/20451919/largest-us-hospice-company-sued-for-medicare-fraud
+  deep_bucket_candidate: regional_news
+  notes: US regional newspaper. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: fortune.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '7'
+  example_url: https://fortune.com/2017/03/15/donald-trump-2005-tax-returns/
+  deep_bucket_candidate: business_news
+  notes: Business magazine/news source. Candidate from retrieved AVeriTeC/HerO2 evidence;
+    review before final paper run.
+- pattern: sudantribune.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '19'
+  example_url: https://sudantribune.com/article52333/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: pmnewsnigeria.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '28'
+  example_url: https://pmnewsnigeria.com/2020/10/26/reports-pogba-quits-french-team-over-macrons-attack-on-islam/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: tasnimnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '30'
+  example_url: https://www.tasnimnews.com/en/news/2020/10/26/2376855/pogba-retires-from-france-over-president-macron-s-anti-islam-comments
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: themoscowtimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '58'
+  example_url: https://www.themoscowtimes.com/2020/03/31/russia-sends-medical-aid-to-coronavirus-hit-us-trump-says-a69804
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: today.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '81'
+  example_url: https://www.today.com/news/kristen-welker-named-weekend-today-co-anchor-t170478
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: tribuneonlineng.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '125'
+  example_url: https://tribuneonlineng.com/nigerias-economy-shrank-by-6-10-in-q2-2020-nbs/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: gulfnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '179'
+  example_url: https://gulfnews.com/uae/filipinos-trust-president-duterte-but-wary-of-his-handling-of-coronavirus-pandemic-1.72822822
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: washingtontimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '260'
+  example_url: https://www.washingtontimes.com/news/2018/sep/19/haters-now-call-trump-supporters-the-dregs-of-soci/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dailycaller.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 6
+  example_claim_id: '349'
+  example_url: https://dailycaller.com/buzz/john-brennan/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: tribune.com.pk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '2'
+  example_url: https://tribune.com.pk/story/1119830/diplomatic-row-pakistan-refuses-accept-deportee-france
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: express.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '10'
+  example_url: https://www.express.co.uk/news/world/1170118/trump-news-nuke-hurricanes-nuclear-weapons-weather-white-house-latest
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: journalistsresource.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '15'
+  example_url: https://journalistsresource.org/politics-and-government/border-walls-barriers-migrant-research/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dailystar.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '25'
+  example_url: https://www.dailystar.co.uk/news/world-news/mcdonalds-azerbaijan-promotes-war-armenia-22913718
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: news-medical.net
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '26'
+  example_url: https://www.news-medical.net/news/20200406/Antiparasitic-drug-Ivermectin-kills-coronavirus-in-48-hours.aspx
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: kanyidaily.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '30'
+  example_url: https://www.kanyidaily.com/2020/10/paul-pogba-denies-quitting-france-national-team-over-president-macrons-comments-on-islam.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dallasnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '38'
+  example_url: https://www.dallasnews.com/news/2015/05/31/biden-announces-death-of-son-beau-of-brain-cancer/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: buffalonews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '57'
+  example_url: https://buffalonews.com/news/local/nathan-mcmurray-from-unknown-long-shot-to-serious-contender/article_a9163bc1-d04a-51ac-b0b9-2d0aaa78cb7a.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: eenews.net
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '61'
+  example_url: https://www.eenews.net/articles/can-dems-ride-a-new-harley-crowd-to-electoral-success/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: prnewswire.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '68'
+  example_url: https://www.prnewswire.com/news-releases/why-joe-biden-is-wrong-on-gender-transition-for-eight-year-olds-frc-action-explains-301154164.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: pointblanknews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '72'
+  example_url: https://pointblanknews.com/pbn/exclusive/buhari-appoints-baru-gmd-nnpc-approves-new-board-directors/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: dailywire.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '106'
+  example_url: https://www.dailywire.com/news/barrett-asked-to-hold-up-notes-shes-using-to-answer-questions-she-holds-up-a-blank-notepad
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: thepinknews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '179'
+  example_url: https://www.thepinknews.com/2019/11/20/vicente-sotto-philippines-pride-month-sin-rodrigo-duterte/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: globalscientificjournal.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '202'
+  example_url: https://www.globalscientificjournal.com/researchpaper/MILITARY_ADMINISTRATION_IN_NIGERIA_29_YEARS_OF_SAD_POLITICAL_EXPERIENCE_AND_DEMOCRATIC_TRUNCATION.pdf
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: afajournal.org
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '249'
+  example_url: https://afajournal.org/past-issues/2013/december/behind-a-mask-of-nonpartisanship-aarp-leans-far-left/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: emirati.news
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '269'
+  example_url: https://emirati.news/ipl-2020-in-the-uae-sunil-gavaskar-i-was-not-sexist-towards-anushka-sharma-in-comments-on-virat-kohli-about-bowling/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: irishtimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '300'
+  example_url: https://www.irishtimes.com/news/world/uk/32-arrested-at-anti-lockdown-protest-in-london-1.4359635
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: africanews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '304'
+  example_url: https://www.africanews.com/2020/03/21/zimbabwe-records-first-coronavirus-case//
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: thewellnews.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '324'
+  example_url: https://www.thewellnews.com/2020-elections/house-watch/fl-26-carlos-gimenez-r/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: communitynewspapers.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '324'
+  example_url: https://communitynewspapers.com/coral-gables-news/miamis-community-newspapers-endorses-mayor-carlos-gimenez-mayor-2/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: statesmanjournal.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '355'
+  example_url: https://www.statesmanjournal.com/story/news/2020/09/10/proud-boys-antifa-starting-fires-oregon-rumors-doused-officials/3465482001/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: christianpost.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '359'
+  example_url: https://www.christianpost.com/news/cuties-film-inspires-cancelnetflix-backlash-over-sexualization-of-children.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: millattimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '365'
+  example_url: https://millattimes.com/upsc-result-an-eye-opener-for-muslim-indians/
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: turkistantimes.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: low
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate
+  observed_count: 4
+  example_claim_id: '413'
+  example_url: https://turkistantimes.com/m/news-12765.html
+  deep_bucket_candidate: probable_news_review
+  notes: Heuristic news-like domain; manual review required. Candidate from retrieved
+    AVeriTeC/HerO2 evidence; review before final paper run.
+- pattern: rollcall.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 20
+  example_claim_id: '155'
+  example_url: https://rollcall.com/2017/08/15/far-right-protesters-in-virginia-included-very-fine-people-trump-says/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: tampabay.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 14
+  example_claim_id: '4'
+  example_url: https://www.tampabay.com/news/politics/legislature/senate-president-don-gaetzs-former-company-sued-for-medicaid-fraud/2120026/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: thequint.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 44
+  example_claim_id: '20'
+  example_url: https://www.thequint.com/news/webqoof/no-people-in-balochistan-did-not-celebrate-narendra-modi-win-fact-check
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: sky.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 14
+  example_claim_id: '50'
+  example_url: https://news.sky.com/story/video-retweeted-by-donald-trump-becomes-first-ever-to-be-labelled-manipulated-by-twitter-11953641
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: politico.eu
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 10
+  example_claim_id: '60'
+  example_url: https://www.politico.eu/article/rishi-sunak-uk-jobs-support-scheme/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: cnet.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '0'
+  example_url: https://www.cnet.com/culture/fake-sean-connery-letter-to-steve-jobs-goes-viral/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: telegraph.co.uk
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '0'
+  example_url: https://www.telegraph.co.uk/culture/film/jamesbond/8589096/Fake-Sean-Connery-letter-to-Steve-Jobs-becomes-Twitter-sensation.html
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: technologyreview.com
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '158'
+  example_url: https://www.technologyreview.com/2020/10/07/1009664/trumps-antibody-treatment-was-tested-using-cells-from-an-abortion/
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
+- pattern: thenationonlineng.net
+  match_type: registered_domain
+  bucket: established_news
+  confidence: medium
+  trust_prior: 0.75
+  source_basis: averitec_hero2_domain_audit_candidate_v2
+  observed_count: 8
+  example_claim_id: '180'
+  example_url: https://community.thenationonlineng.net/forum/men-must-ejaculate-21-times-monthly-to-avoid-prostate-cancer-medi
+  notes: Candidate from AVeriTeC/HerO2 retrieved evidence domain audit v2. Review
+    before final paper run.
