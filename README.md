@@ -53,7 +53,7 @@ The following values are reported in **Table 5 of the paper**. **(P)** identifie
 
 The paper additionally reports controlled evidence-only comparisons and analyzes when source conditioning is beneficial. The table above should not be interpreted as a matched estimate of conditioning gains for every baseline.
 
-### Reproduced in this repository
+''' ### Reproduced in this repository
 
 Recomputed from per-claim prediction files by `scripts/report_results.py`. No
 paper value is hardcoded anywhere in this repository.
@@ -92,7 +92,7 @@ the same pipeline, since seeds 191 and 999 were trained with TakeItEasy's
 CausalLM pipeline while seed 42 used LLaMA-Factory, and averaging across two
 trainers would hide an implementation difference. LIAR-RAW with Llama-3.1 has no
 valid run: every attempt produced an empty adapter, so the row is absent here
-instead of being reported from a broken checkpoint.
+instead of being reported from a broken checkpoint. '''
 
 ## Quick start
 
